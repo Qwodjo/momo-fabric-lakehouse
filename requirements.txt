@@ -1,0 +1,5 @@
+numpy
+pandas
+azure-eventhub
+python-dotenv
+pytest

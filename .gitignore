@@ -1,0 +1,7 @@
+data/*
+!data/.gitkeep
+*.jsonl
+*.csv
+.env
+spark-warehouse/
+.venv/
